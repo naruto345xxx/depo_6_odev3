@@ -1,0 +1,65 @@
+* {
+    margin: 5px;
+    padding: 0px;
+    margin-left: 10px;
+    margin-right:  10px;
+}
+body {
+    background-color: rgb(106, 204, 223);
+    font-family: Arial, sans-serif;
+    text-align: left;
+   
+ 
+    
+    
+}
+
+h1 {
+    color: rgb(141, 12, 19);
+}
+a{
+    text-align: center;
+}
+a :hover{
+    font-size: 20px;
+    text-decoration: underline;
+    color: rgba(13, 153, 66, 0.793);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+}
+
+
+
+.kirmizi {
+    color: rgb(89, 0, 255);
+}
+
+.altcizgi {
+    text-decoration: underline;
+    text-decoration-color: rgb(219, 28, 3);
+    text-decoration-thickness: 2px;
+    
+}
+
+p {
+    
+    margin: 10px;
+    padding: 10px;
+    text-align: justify;
+    font-size: 15px;
+    line-height: 1.2;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    
+}
+.footer{
+    background-color: lightblue;
+    min-height: 35px;
+    padding-left: 15px;
+    padding-right: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    display: block;
+}
